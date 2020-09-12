@@ -1,0 +1,86 @@
+http://www.inforsec.org/wp/?p=3213 | 【招聘】清华大学网络空间安全实验室期待你的加入！
+http://netsec.ccert.edu.cn/chs/contact/position-engineer | 清华大学网络空间安全实验室招聘工程师（研究助理） - NISL@THU
+https://seedsecuritylabs.org/ | SEED Project
+
+https://twitter.com/home | Home / Twitter
+https://gfw.report/blog/gfw_esni_blocking/zh/ | https://gfw.report/blog/gfw_esni_blocking/zh/
+https://gfw.report/ | Welcome to GFW.Report
+https://github.com/schenkd/nginx-ui | schenkd/nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli.
+https://www.anquanke.com/post/id/211006 | 恶意样本分析系列之最新版AgentTesla的迂回加载 - 安全客，安全资讯平台
+https://sspai.com/post/61573 | 全局拦截手机广告跟踪，现在有了一个安全、免费的选择：Blokada - 少数派
+https://github.com/cckuailong/HackChrome | cckuailong/HackChrome: Get the User:Password from Chrome(include version < 80 and version > 80)
+https://visualgo.net/en | VisuAlgo - visualising data structures and algorithms through animation
+https://eli.thegreenplace.net/2020/an-intel-8080-assembler-and-online-simulator/ | An Intel 8080 assembler and online simulator - Eli Bendersky's website
+https://weibo.com/ttarticle/p/show?id=2309404534862051934240 | 美国国家安全局发布有关如何降低位置泄露风险的建议
+
+https://www.google.com/search?source=hp&ei=ANEWX5XTGLKGytMPvNms8Aw&q=coinhive&oq=coinhive&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgIIADICCAAyAggAMgQIABAeMgQIABAeMgQIABAeMgQIABAeMgQIABAeOgQIABAKUNUhWLc4YOU7aAFwAHgAgAHYA4gByBeSAQUzLTcuMZgBAKABAaoBB2d3cy13aXqwAQA&sclient=psy-ab&ved=0ahUKEwiV0_G0nt7qAhUyg3IEHbwsC84Q4dUDCAc&uact=5 | coinhive - Google 搜索
+https://www.4hou.com/posts/gQOZ | 代码分析平台CodeQL学习手记（十二） - 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+https://www.4hou.com/posts/yJOW | 代码分析平台CodeQL学习手记（一） - 嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com
+https://paper.seebug.org/1078/ | 代码分析引擎 CodeQL 初体验
+https://awesomeopensource.com/projects/binary-analysis | The Top 47 Binary Analysis Open Source Projects
+https://awesomeopensource.com/project/decaf-project/DECAF | Decaf
+https://github.com/decaf-project/DECAF | decaf-project/DECAF: DECAF (short for Dynamic Executable Code Analysis Framework) is a binary analysis platform based on QEMU. This is also the home of the DroidScope dynamic Android malware analysis platform. DroidScope is now an extension to DECAF.
+https://www.freebuf.com/articles/web/242574.html | 记一次简单的应急响应 - FreeBuf网络安全行业门户
+https://www.freebuf.com/articles/container/242763.html | 初识Docker逃逸 - FreeBuf网络安全行业门户
+https://untitled.pw/software/2046.html | [源码级解析] 漫游源码、纵观Linux&Unix历史，探索shutdown、poweroff、halt与reboot的前世今生 – Untitled Spot_未命名小站
+https://github.com/ | GitHub
+https://github.com/reactos/reactos | reactos/reactos: A free Windows-compatible Operating System
+https://kizniche.github.io/Mycodo/ | Mycodo | 环境监测与监管体系
+https://kylegabriel.com/projects/2020/06/automated-hydroponic-system-build.html | Automated Hydroponic System Build – Projects | Kyle Gabriel
+https://www.cs.ucr.edu/~heng/teaching/cs260-winter19/index.html | CS 260: Binary Analysis for Computer Security
+
+https://www.luogu.com.cn/ | 首页 - 洛谷 | 计算机科学教育新生态
+https://bbs.pediy.com/thread-260394.htm | [原创] FastStone Capture 软件注册算法破解及注册机编写-『软件逆向』-看雪安全论坛
+https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/ | The Definitive Guide to Linux System Calls - Packagecloud Blog
+https://arxiv.org/abs/2006.03511 | [2006.03511] Unsupervised Translation of Programming Languages
+https://arxiv.org/pdf/2006.03511.pdf | 2006.03511.pdf
+https://github.com/hacklcx/HFish | hacklcx/HFish: 🍯 A Most Convenient Honeypot Platform. 🐝🐝🐝 🐝🐝
+https://github.com/hacklcx/HFish/releases | Releases · hacklcx/HFish
+https://bbs.pediy.com/thread-260331.htm | [原创]某南极动物厂新版XX分析——系统线程部分（新瓶旧酒）-『软件逆向』-看雪安全论坛
+https://www.anquanke.com/post/id/209365 | 实现虚拟机逃逸：Oracle VirtualBox VHWA UAF权限提升漏洞分析 - 安全客，安全资讯平台
+https://www.anquanke.com/post/id/209448 | Docker安全性与攻击面分析 - 安全客，安全资讯平台
+https://www.anquanke.com/post/id/209199 | 自动重构Meterpreter绕过杀软 - 安全客，安全资讯平台
+https://www.anquanke.com/post/id/209467 | 揭秘Icebox虚拟机自检解决方案实现Windows内存自省的原理 - 安全客，安全资讯平台
+https://www.freebuf.com/vuls/236934.html | 工控软件dll劫持漏洞分析 - FreeBuf网络安全行业门户
+https://www.freebuf.com/articles/container/239283.html | 无根容器浅析 - FreeBuf网络安全行业门户
+https://www.freebuf.com/sectool/236591.html | Volatility取证使用笔记 - FreeBuf网络安全行业门户
+https://www.freebuf.com/vuls/238736.html | 图解利用虚函数过GS保护 - FreeBuf网络安全行业门户
+http://coodict.github.io/python3-in-one-pic/ | Python3 in one picture
+https://www.yuque.com/jtcheng/emcpp | EMC++ 解读笔记 · 语雀
+
+https://bbs.pediy.com/thread-255277.htm | [分享]Linux pwn从入门到熟练（三）-『Pwn』-看雪安全论坛
+https://bbs.pediy.com/thread-248681.htm | [分享]Linux PWN从入门到熟练（二）-『Pwn』-看雪安全论坛
+https://bbs.pediy.com/thread-251000.htm | [原创][新手向]Pwn学习笔记：CTF pwn题解题套路实战-『二进制漏洞』-看雪安全论坛
+https://bbs.pediy.com/thread-225487.htm | [原创]TAMUCTF 2018 pwn writeup-『Pwn』-看雪安全论坛
+https://bbs.pediy.com/thread-228385.htm | [原创] Pwn 的比赛环境配置-『Pwn』-看雪安全论坛
+https://print1.top/index.php/category/crypto/ | Crypto – Print1
+https://bbs.pediy.com/ | 看雪安全论坛
+https://bbs.pediy.com/thread-14164.htm | 介绍一些经典的网站和书籍-『编程技术』-看雪安全论坛
+https://bbs.pediy.com/thread-259953.htm | [原创]恶意样本分析学习—GlobeImposter3.0勒索病毒分析-『软件逆向』-看雪安全论坛
+https://bbs.pediy.com/thread-259691.htm | [原创]恶意代码分析之APC进程注入学习-『软件逆向』-看雪安全论坛
+https://bbs.pediy.com/thread-259646.htm | [原创]第一个mips pwn搭建环境，逆向，调试，最终exp的过程-『Pwn』-看雪安全论坛
+https://github.com/giantbranch/pwn-env-init | giantbranch/pwn-env-init: CTF PWN 做题环境一键搭建脚本
+
+https://bbs.pediy.com/thread-260252.htm | [原创]CUCKOO沙箱源码分析 后篇-『编程技术』-看雪安全论坛
+https://bbs.pediy.com/thread-260262.htm | [分享][翻译]C++学习的深入理解--C++对象模型在内存中的实现-『编程技术』-看雪安全论坛
+https://bbs.pediy.com/thread-260235.htm | [原创]恶意代码分析之反射型DLL注入-『软件逆向』-看雪安全论坛
+https://www.freebuf.com/vuls/238736.html | 图解利用虚函数过GS保护 - FreeBuf互联网安全新媒体平台
+https://www.anquanke.com/post/id/208940#h2-0 | 解释器类型的Pwn题目总结 - 安全客，安全资讯平台
+https://www.npointer.cn/public.html | 公开赛
+https://bbs.pediy.com/thread-260290.htm | [求助]关于获取ntoskernl基址-『编程技术』-看雪安全论坛
+https://www.cnblogs.com/iBinary/p/11984305.html | kernel 获取ntoskrnl.exe基址 - iBinary - 博客园
+
+https://bbs.pediy.com/thread-259971.htm | 探秘INT3指令-『软件逆向』-看雪安全论坛
+https://securitygossip.com/ | Group of Software Security In Progress
+http://bitblaze.cs.berkeley.edu/release/index.html | BitBlaze二进制分析平台发布信息
+https://www.zhihu.com/question/52807321/answer/132504212 | 作为一个计算机phd，在二进制程序分析领域如何入门并开展研究？ - 知乎
+https://club.perfma.com/article/687999?type=parent&last=758917 | 那些吃CPU的大户 | PerfMa应用性能技术社区
+https://bbs.pediy.com/thread-259985.htm | [分享]比较实用的Fuzz相关帖子集合分享-『二进制漏洞』-看雪安全论坛
+https://www.cnblogs.com/WangAoBo/p/8280352.html | afl-fuzz技术初探 - M4x - 博客园
+https://www.zhihu.com/question/46394184/answer/190100108?utm_source=com.microsoft.office.onenote&utm_medium=social | 你写过的自己觉着最牛的黑程序是什么？ - 知乎
+https://zhuanlan.zhihu.com/p/83547768?utm_source=com.microsoft.office.onenote&utm_medium=social | 使用 mtrace 分析内存泄漏 - 知乎
+https://rootkits.xyz/blog/ | rootkit - cuz Hacking is fun
+https://sspai.com/ | 用这些方法，让 Windows 用起来更顺心 - 少数派
+http://v1nke.win/tag/ | tag | V1NKe的心情垃圾桶
+
+chrome://extensions/ | Extensions
