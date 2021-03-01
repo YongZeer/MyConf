@@ -1,0 +1,82 @@
+#!/bin/bash
+
+#
+# Kali Docker Setup Script
+# @decidedlygray 20180902
+# LICENSE: MIT
+#
+# Steps taken from: https://docs.docker.com/install/linux/docker-ce/debian/
+# And: https://medium.com/@airman604/installing-docker-in-kali-linux-2017-1-fbaa4d1447fe
+# Install uses the repository, so we can get updates in the future
+
+# Remove any existing docker packages and update package list
+sudo apt remove docker docker-engine docker.io -y
+sudo apt update
+
+# Install apt HTTPS packages
+sudo apt install apt-transport-https ca-certificates curl gnupg2 software-properties-common -y
+
+# Add Docker GPG key
+curl -fsSL https://download.docker.com/linux/debian/gpg | sudo apt-key add -
+# Verify key exists
+# sudo apt-key fingerprint 0EBFCD88
+
+# Add stable repo
+# sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/debian jessie stable"
+echo 'deb https://download.docker.com/linux/debian stretch stable' > /etc/apt/sources.list.d/docker.list
+
+# Update repo list
+sudo apt update
+
+# Finally, install Docker Community Edition
+sudo apt install docker-ce -y
+# Verify install by running the docker hello world
+systemctl start docker
+
+sudo groupadd docker     #添加docker用户组
+sudo gpasswd -a $USER docker     #将登陆用户加入到docker用户组中
+newgrp docker     #更新用户组
+
+# import web docker image
+docker load < web_test.tar
+
+# check docker images
+docker images
+
+# add docker image tag, attation: image_id is what your check
+docker tag 26cc2734a48d web:v1
+
+# run the image, and 
+docker run  -p 80:80 -d  web:v1
+
+# check the running container 
+docker ps
+
+# login in the container,attation: container_id is what your check
+docker exec -it container_id /bin/bash
+
+
+# build mypwn docker
+docker build -t mypwn:latest .
+
+
+docker run -d \
+    --rm \
+    --name mypwn \
+    -v $(pwd)/mypwn:/ctf/work \
+    -p 23946:23946 \
+    --cap-add=SYS_PTRACE \
+    mypwn
+echo "docker exec -it pwn /bin/bash"
+echo ""
+echo "put the file on ./mypwn"
+echo "WORKDIR: cd /ctf/work"
+echo "stop & delete container: docker stop mypwn"
+echo ""
+
+docker exec -it mypwn /bin/bash
+
+
+# https://hub.docker.com/r/skysider/pwndocker
+# docker save -o pwndocker.tar skysider/pwndocker:latest
+# docker load -i pwndocker.tar
